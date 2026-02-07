@@ -9,3 +9,17 @@ Protocols Covered:
 - ICMP
 - Ethernet
 - TLS
+
+How to Run
+
+1. Install dependencies:
+   pip install scapy
+  
+
+3. Run any protocol script:
+   python icmp.py
+   python tcp_cs.py
+   python tcp_cs.py
+   python udp_cs.py
+   python eth.py
+   python tls.py
